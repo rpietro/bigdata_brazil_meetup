@@ -10,7 +10,7 @@
 
 ## Topic list
 
-1. sublime text and Rmarkdown for reproducible research - Ricardo
+1. sublime text and Rmarkdown for reproducible research: knitr, pander, pandoc - Ricardo
 1. mongoDB - Jacson??
 1. R interaction with RDF and LOD - Jacson??
 1. hadoop - Jose Eduardo??
@@ -22,10 +22,11 @@
 1. ggplot2 for graphical exploratory analysis - Ricardo
 1. sqlliteR for data management - Elias??
 1. git, github and gists for reproducible research - Ricardo
-1. Global Portuguese for article writing - Katia
+1. data posting and retrieval to github and other data repositories - Ricardo
+1. Global Portuguese for article writing - Katia??
 1. knitcitations and bibtex embedded in markdown for reproducible research - Elias??
 1. CFA and SEM with psych and lavaan - Joao (remote)??
-1. slidify, dot language, and basic css for reproducible slides - Ricardo
+1. slidify, dot language, dynamic graphics (rcharts, animations, googlevis) and basic css for reproducible slides - Ricardo
 1. MongoDB API, mongoHQ, and queries - Marcelo??
 1. Rcpp for C loops in R for function optimization - Ricardo
 1. automatic table generation with Rmarkdown and reproducible research - Ricardo
