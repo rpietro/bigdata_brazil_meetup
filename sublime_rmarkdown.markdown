@@ -5,6 +5,13 @@ Ricardo Pietrobon
 ## Introduction
 This is a document to help you learn the basics behind Sublime Text along with Rmarkdown. Both constitute an incredibly helpful tool for [reproducible research](http://reproducibleresearch.net/index.php/Main_Page). Without further due, let's get started.
 
+## Why reproducible research, sublime, markdown, and Rmarkdow
+
+* reproducible research: without other people being able to reproduce your research results, there is actually very little difference between science and faith
+* Sublime Text: in my opinion, as god as vim but far easier to learn and with a huge number of resources
+* Markdown: it's like HTML but semantic, far easier, can be converted to whatever you like, and with some external tools can make your text as re-usable as it gets
+* Rmarkdown: it's markdown but with the ability to embed and display any possible R result. Actually, with the knitr package you can include not only R but python and others
+
 
 ## Installing Sublime Text
 * Download [Sublime Text 2](http://www.sublimetext.com/2)
