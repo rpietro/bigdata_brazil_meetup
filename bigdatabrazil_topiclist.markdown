@@ -38,3 +38,4 @@
 1. predictive modeling and assessment statistics - Ricardo
 1. web searching hacks for multilanguage data and information retrieval - Ricardo
 1. basic UX (User eXperience) for dissemination of research information - Ricardo
+1. R and BIs - Jacson??
