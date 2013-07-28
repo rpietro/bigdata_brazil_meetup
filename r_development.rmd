@@ -1,3 +1,5 @@
 # R development
 
 The content is entirely based on [Hadley Wickham's book on github](https://github.com/hadley/devtools/wiki)
+
+* [Hadley's style guide]()

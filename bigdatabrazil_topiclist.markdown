@@ -18,7 +18,7 @@
 1. slidify, dot language, dynamic graphics (rcharts, animations, googlevis) and basic css for reproducible slides - Ricardo (code selected)
 1. bare bones of R programming and package development - Ricardo (code selected)
 1. basics of R data management - Ricardo (skeleton in place)
-1. data posting to github and other data repositories, API-retrieval (JSON and XML) - Ricardo
+1. data posting to github and other data repositories, API-retrieval (JSON and XML), and NLTK processing using python - Ricardo
 1. data simulation and analysis of randomized experiments - Ricardo
 1. predictive modeling and assessment statistics - Ricardo
 1. dissecting linear regression through matrix manipulation - Ricardo

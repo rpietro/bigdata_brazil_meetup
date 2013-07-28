@@ -1,4 +1,4 @@
-# Sublime text and Rmarkdown for reproducible research
+ # Sublime text and Rmarkdown for reproducible research
 
 Ricardo Pietrobon
 
