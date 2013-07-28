@@ -41,10 +41,14 @@ Sublime Text 3 has a number of new features but plugin support still falls short
     1. open canary
 * dot and neato flowcharts with [Ricardo's gist](https://gist.github.com/rpietro/6058722)
 
-## slidify
-* [Ricardo's gist](https://gist.github.com/rpietro/6059999) 
+
+## table generation
+* [manual markdown tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-tables)
+* xtable](http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf)
+* [memisc](http://cran.r-project.org/web/packages/memisc/index.html)
 
 # pandoc
 * install [pandoc](http://johnmacfarlane.net/pandoc/installing.html)
 * [file conversion](http://johnmacfarlane.net/pandoc/demos.html)
 * [pander](http://rapporter.github.io/pander/) 
+* [rapport](http://cran.r-project.org/web/packages/rapport/index.html)

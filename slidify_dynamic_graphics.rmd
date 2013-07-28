@@ -1,0 +1,13 @@
+# Slidify and dynamic graphics
+
+The reasons for using Slidify are essentially the same for using Rmarkdown: reproducible code, re-use, and the ability to generate tables, graphics and essentially the whole analysis on the spot.
+
+# Slidify
+* get [Ricardo's gist](https://gist.github.com/rpietro/6059999) 
+* establish work environment with terminal (first to be open to make the sendtext plugin work), then sublime and google canary
+* [get started with slidify](http://slidify.org/start.html)
+
+# dynamic graphics
+
+* [rcharts](http://rcharts.io/)
+* [googlevis](http://cran.r-project.org/web/packages/googleVis/vignettes/googleVis.pdf)
