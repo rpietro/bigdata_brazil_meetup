@@ -1,0 +1,1 @@
+# vignette http://cran.rstudio.com/web/packages/Rcpp/vignettes/Rcpp-introduction.pdf

@@ -18,14 +18,15 @@
 1. slidify, dot language, dynamic graphics (rcharts, animations, googlevis) and basic css for reproducible slides - Ricardo (code selected)
 1. bare bones of R programming and package development - Ricardo (code selected)
 1. basics of R data management - Ricardo (skeleton in place)
-1. data posting to github and other data repositories, API-retrieval (JSON and XML), and NLTK processing using python - Ricardo
-1. data simulation and analysis of randomized experiments - Ricardo
-1. predictive modeling and assessment statistics - Ricardo
-1. dissecting linear regression through matrix manipulation - Ricardo
+1. predictive modeling and assessment statistics - Ricardo (code selected)
+1. data gathering from github and other data repositories - Ricardo (code selected)
+1. data simulation - Ricardo (code selected)
+1. Rcpp for C loops in R for function optimization - Ricardo (code selected)
+1. dissecting linear regression through matrix manipulation - Ricardo (code selected)
 1. web searching hacks for multilanguage data and information retrieval - Ricardo
-1. Rcpp for C loops in R for function optimization - Ricardo
 1. basic Bayesian regression models - Ricardo
 1. basic UX (User eXperience) for dissemination of research information - Ricardo
+2. API-retrieval (JSON and XML), and NLTK processing using python
 1. mongoDB - Jacson??
 1. R interaction with RDF and LOD - Jacson??
 1. hadoop - Jose Eduardo??
