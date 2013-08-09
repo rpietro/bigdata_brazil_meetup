@@ -11,3 +11,6 @@ The reasons for using Slidify are essentially the same for using Rmarkdown: repr
 
 * [rcharts](http://rcharts.io/)
 * [googlevis](http://cran.r-project.org/web/packages/googleVis/vignettes/googleVis.pdf)
+
+
+# Scripts taken from other sources are guided by their original licenses. All other text is under the [DILLIGAS public license](https://gist.github.com/rpietro/6114401), which allows you to freely copy and modify it for any purpose, commercial or not.

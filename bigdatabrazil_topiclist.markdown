@@ -16,8 +16,10 @@
 1. Data mining with rattle - Ricardo (code selected)
 1. ggplot2 for graphical exploratory analysis - Ricardo (code selected)
 1. slidify, dot language, dynamic graphics (rcharts, animations, googlevis) and basic css for reproducible slides - Ricardo (code selected)
-1. bare bones of R programming and package development - Ricardo (code selected)
 1. basics of R data management - Ricardo (skeleton in place)
+
+
+1. bare bones of R programming and package development - Ricardo (code selected)
 1. data posting to github and other data repositories, API-retrieval (JSON and XML), and NLTK processing using python - Ricardo
 1. data simulation and analysis of randomized experiments - Ricardo
 1. predictive modeling and assessment statistics - Ricardo
@@ -40,3 +42,5 @@
 1. QCA (logic and fuzzy logic) for qualitative studies - Joao??
 1. text mining with tm and NLTK - Jacson??
 1. R and BIs - Jacson??
+
+This document is licensed under the [DILLIGAS public license](https://gist.github.com/rpietro/6114401), which allows you to freely copy and modify it for any purpose, commercial or not.

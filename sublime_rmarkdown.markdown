@@ -52,3 +52,6 @@ Sublime Text 3 has a number of new features but plugin support still falls short
 * [file conversion](http://johnmacfarlane.net/pandoc/demos.html)
 * [pander](http://rapporter.github.io/pander/) 
 * [rapport](http://cran.r-project.org/web/packages/rapport/index.html)
+
+
+# Scripts taken from other sources are guided by their original licenses. All other text is under the [DILLIGAS public license](https://gist.github.com/rpietro/6114401), which allows you to freely copy and modify it for any purpose, commercial or not.
