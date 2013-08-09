@@ -24,10 +24,11 @@ Sublime Text 3 has a number of new features but plugin support still falls short
 * [List 2](https://gist.github.com/lucasfais/1207002)
 
 
-## Packages and other trick
+## Packages and other tricks
 
 * [gist](https://github.com/condemil/Gist)
 * [sendtext](https://github.com/wch/SendText) - remember to open the terminal before you open Sublime
+* [SmartMarkdown](https://github.com/demon386/SmartMarkdown) - allows for heading folding and [several other features](https://github.com/demon386/SmartMarkdown#done)
 * search for different markdown plugins
 * create [snippets](http://sublimetext.info/docs/en/extensibility/snippets.html)
 * [marked bonus pack](http://support.markedapp.com/kb/how-to-tips-and-tricks/marked-bonus-pack-scripts-commands-and-bundles)
@@ -46,6 +47,7 @@ Sublime Text 3 has a number of new features but plugin support still falls short
 * [manual markdown tables](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#wiki-tables)
 * xtable](http://cran.r-project.org/web/packages/xtable/vignettes/xtableGallery.pdf)
 * [memisc](http://cran.r-project.org/web/packages/memisc/index.html)
+
 
 # pandoc
 * install [pandoc](http://johnmacfarlane.net/pandoc/installing.html)
